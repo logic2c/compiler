@@ -1,0 +1,16 @@
+/build
+/core
+/debug
+/GnuWin32
+/hello
+/hello.c
+/hello.exe
+/hello.koopa
+/hello.o
+/hello.S
+/hello.txt
+/Makefile
+/sysy.output
+/sysy.tab.c
+/y.output
+/y.tab.c
